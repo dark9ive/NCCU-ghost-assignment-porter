@@ -9,7 +9,7 @@ echo "                        email : asdfg3655@yahoo.com.tw"
 echo " "
 echo " "
 echo "********************************************************************************"
-
+ 
 printf "\033[1;33mPlease insert your assignment number: "
 read invalue
 if [ $invalue -gt 100 ]

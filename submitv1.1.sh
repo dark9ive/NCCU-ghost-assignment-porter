@@ -7,7 +7,7 @@ echo "               NCCU-CS-GHOST assignment porter script v1.1 By Est."
 echo " "
 echo " "
 echo "**********************************************************************************"
-
+ 
 printf "\033[1;33mPlease insert your assignment number: "
 read invalue
 printf "Please insert your assignment filename(full)(default:hwX.c): "

@@ -58,7 +58,7 @@ then
 	/usr/local/class/cp1/bin/submit $invalue
 	cd $currpath
 	rm -r ~/.Est
-	printf "\033[0mPlease go to the link below and check if your assignment is submitted!\nlink: http://cherry.cs.nccu.edu.tw/~cp1/1081/submit.php?assign=$invalue\n\n"
+	printf "\033[0mPlease go to the link below and check if your assignment is submitted!\nlink: http://cherry.cs.nccu.edu.tw/~cp1/1081/\n\n"
 	exit
 else
 	printf "\033[0;31mFile not found!! Quitting...\n"

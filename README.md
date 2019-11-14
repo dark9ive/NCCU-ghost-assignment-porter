@@ -19,4 +19,4 @@ Change log
 v1.4 uploaded(Nov. 14 2019)  
   
 Change log  
-	- Fix the file-not-found bug.(thanks to C.T.Hua!)  
+	- Fix the command-not-found bug.(thanks to C.T.Hua!)  

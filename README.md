@@ -14,3 +14,9 @@ v1.3 uploaded(Oct. 27 2019)
 Change log  
 	- Grade-checking link is now pointed to the specific assignment you upload.(Thanks for the report from YJack!)  
 	- Re-upload the older versions.  
+  
+  
+v1.4 uploaded(Nov. 14 2019)  
+  
+Change log  
+	- Fix the file-not-found bug.(thanks to C.T.Hua!)  

@@ -3,7 +3,7 @@ clear
 printf "\033[0;31m********************************************************************************\n"
 echo " "
 echo " "
-echo "              NCCU-CS-GHOST assignment porter script v1.3 By Est."
+echo "              NCCU-CS-GHOST assignment porter script v1.4 By Est."
 echo "     Bug Report : https://github.com/dark9ive/NCCU-ghost-assignment-porter"
 echo "                        email : asdfg3655@yahoo.com.tw"
 echo " "

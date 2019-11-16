@@ -52,4 +52,4 @@ Make sure you are in the same directory with your main program, then type:
 ~/submit.sh
 ```
 
-then you may follow the instructions by the script to finish your submission.
+Then you may follow the instructions by the script to finish your submission.

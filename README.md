@@ -29,7 +29,7 @@ Step 1. Clone the project to your own directory:
 git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git
 ```
 
-Step 2. Copy the script to your home directory:
+Step 2. Copy the script to your home directory:  
 
 ```
 cp ./NCCU-ghost-assignment-porter/submit.sh ~/
@@ -38,6 +38,8 @@ cp ./NCCU-ghost-assignment-porter/submit.sh ~/
 Step 3. Enjoy your convenient on handing your homework!  
 
 ### one step command
+
+For those who are EXTREMELY LAZY:  
 ```
 git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && echo "Done."
 ```

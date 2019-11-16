@@ -37,6 +37,11 @@ cp ./NCCU-ghost-assignment-porter/submit.sh ~/
 
 Step 3. Enjoy your convenient on handing your homework!  
 
+### one step command
+```
+git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && echo "Done."
+```
+
 ## How to use
 
 Make sure you are in the same directory with your main program, then type:

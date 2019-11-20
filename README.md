@@ -57,3 +57,7 @@ Make sure you are in the same directory with your main program, then type:
 ```
 
 Then you may follow the instructions by the script to finish your submission.
+
+## Creative Commons(CC)
+
+![CC-icon](https://github.com/dark9ive/NCCU-ghost-assignment-porter/blob/master/by-nc-sa.png)

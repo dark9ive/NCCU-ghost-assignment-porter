@@ -5,25 +5,25 @@ The main idea is to ease the procedure and limits of handing the homework on GHO
 
 ## Change log
 
-### v1.2(uploaded on Sept. 27 2019)
+### v1.5(uploaded on Nov. 21 2019)
 
- - Add adaptation to Exercises.
- - Your file will no longer accidentally deleted by the script.(Known bug #1 fixed)
- - Grade-checking link added.
- - You can now put the script ANYWHERE and run it while needed instead of make a copy to your assignment directory.
+ - The last upload file(s) of every assignment will now be kept under folder "~/.Est/".
+
+### v1.4(uploaded on Nov. 14 2019)
+
+ - Fix the command-not-found bug.(thanks to C.T.Hua!)
 
 ### v1.3(uploaded om Oct. 27 2019)
 
  - Grade-checking link is now pointed to the specific assignment you upload.(Thanks for the report from YJack!)
  - Re-upload the older versions.
 
-### v1.4(uploaded on Nov. 14 2019)
+### v1.2(uploaded on Sept. 27 2019)
 
- - Fix the command-not-found bug.(thanks to C.T.Hua!)
-
-### v1.5(uploaded on Nov. 21 2019)
-
- - The last upload file(s) of every assignment will now be kept under folder "~/.Est/".
+ - Add adaptation to Exercises.
+ - Your file will no longer accidentally deleted by the script.(Known bug #1 fixed)
+ - Grade-checking link added.
+ - You can now put the script ANYWHERE and run it while needed instead of make a copy to your assignment directory.
 
 ## How to Download
 

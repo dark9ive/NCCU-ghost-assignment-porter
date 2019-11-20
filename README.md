@@ -21,6 +21,10 @@ The main idea is to ease the procedure and limits of handing the homework on GHO
 
  - Fix the command-not-found bug.(thanks to C.T.Hua!)
 
+### v1.5(uploaded on Nov. 21 2019)
+
+ - The last upload file(s) of every assignment will now be kept under folder "~/.Est/".
+
 ## How to Download
 
 Step 1. Clone the project to your own directory:  

@@ -60,4 +60,4 @@ Then you may follow the instructions by the script to finish your submission.
 
 ## Creative Commons(CC)
 
-<img id="CC-icon" src="https://github.com/dark9ive/NCCU-ghost-assignment-porter/blob/master/by-nc-sa.png" width="101" height="35">
+<img id="CC-icon" src="https://github.com/dark9ive/NCCU-ghost-assignment-porter/blob/master/.icons/by-nc-sa.png" width="101" height="35">

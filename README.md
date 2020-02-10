@@ -26,7 +26,7 @@ despite that TAs will give us the hand-in command every time, copy-paste can't s
 
 With NCCU-GAP, you can hand in your homework with nearly no limits in a way shorter command.  
 You just have to put this script at somewhere easy to access, and execute it in your assignment directory.  
-NCCU-GAP will then ask for two required informations, and help you finish your work with ease.  
+NCCU-GAP will then ask for two required informations, and help you finish your submission with ease.  
   
 further more, NCCU-GAP will make a copy of your homework in your home directory.  
 This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. Even TAs can't done that for you!  
@@ -71,13 +71,19 @@ Step 2. Copy the script to your home directory:
 cp ./NCCU-ghost-assignment-porter/submit.sh ~/
 ```
 
-Step 3. Enjoy your convenient on handing your homework!  
+Step 3. Change permissions
+
+```
+chmod 755 ~/submit.sh
+```
+
+Step 4. Enjoy your convenient on handing your homework!  
 
 ### one step command
 
 For those who are **EXTREMELY LAZY**:  
 ```
-git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && echo "Done."
+git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && chmod 755 ~/submit.sh && echo "Done."
 ```
 
 ## usage

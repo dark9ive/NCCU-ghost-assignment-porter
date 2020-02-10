@@ -11,11 +11,11 @@ The main idea is to ease the procedure and limits of handing the homework on GHO
 
 ### v1.4(uploaded on Nov. 14 2019)
 
- - Fix the command-not-found bug.(thanks to [C.T.Hua](https://github.com/CTHua)!)
+ - Fix the command-not-found bug.(Thanks to [C.T.Hua](https://github.com/CTHua)!)
 
 ### v1.3(uploaded om Oct. 27 2019)
 
- - Grade-checking link is now pointed to the specific assignment you upload.(Thanks for the report from YJack!)
+ - Grade-checking link is now pointed to the specific assignment you upload.(Thanks for the suggestion from YJack!)
  - Re-upload the older versions.
 
 ### v1.2(uploaded on Sept. 27 2019)

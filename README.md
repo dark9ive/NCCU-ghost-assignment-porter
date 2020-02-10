@@ -7,14 +7,20 @@ The main idea is to ease the procedure and limits of handing homeworks on GHOST.
 
 As a first-grader in NCCU CS, I picked ___Computer Programming 1 (CP1)___ in the first semester as well.  
 The class is wonderful, the teacher teaches very well, and the teaching assistants are nice, too.  
-However, the procedure of handing assigns and exercises are the way too complicated. This encouraged me to work on this project.  
+However, the procedure of handing homeworks is the way too complicated. This encouraged me to work on this project.  
 
-### without NCCU-GAP
+### Life without NCCU-GAP
 
 There are some limits if you want to hand in your homeworks, such as:
 
- - the name of the project folder.
- - the name of the main program.
+ - the name of the project folder must match the specific format.
+ - the name of the main program must match the specific format.
+
+...and some defects
+
+ - the command to hand in the homework is too long.(more than 30 symbols!)
+
+despite that TAs will give us the hand-in command every time, copy-paste can't solve the first two problems, which is very annoying.  
 
 ## Change log
 

@@ -9,7 +9,7 @@ As a first-grader in NCCU CS, I picked ___Computer Programming 1 (CP1)___ in the
 The class is wonderful, the teacher teaches very well, and the teaching assistants are nice, too.  
 However, the procedure of handing homeworks is the way too complicated. This encouraged me to work on this project.  
 
-### Life without NCCU-GAP
+### Without NCCU-GAP
 
 There are some limits if you want to hand in your homeworks, such as:
 

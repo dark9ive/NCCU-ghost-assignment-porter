@@ -48,7 +48,7 @@ For those who are **EXTREMELY LAZY**:
 git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && echo "Done."
 ```
 
-## How to use
+## usage
 
 Make sure you are in the same directory with your main program, then type:
 

@@ -29,7 +29,7 @@ You just have to put this script at somewhere easy to access, and execute it in 
 NCCU-GAP will then ask for two required informations, and help you finish your work with ease.  
   
 further more, NCCU-GAP will make a copy of your homework in your home directory.  
-This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks, which even TAs can't done for you.
+This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. Even TAs can't done that for you!
 
 ## Change log
 

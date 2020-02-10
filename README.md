@@ -1,11 +1,18 @@
 # NCCU-ghost-assignment-porter
 
 NCCU-GAP is a free-to-use shell script for basically NCCU CS students, or anyone whom has a account on NCCU-ghost(ghost.cs.nccu.edu.tw).  
-The main idea is to ease the procedure and limits of handing the homework on GHOST.
+The main idea is to ease the procedure and limits of handing homeworks on GHOST.
 
 ## intro
 
-As a first-grader in NCCU CS, I picked _Computer Programming 1_
+As a first-grader in NCCU CS, I picked ___Computer Programming 1(CP1)___ in the first semester as well. The class is wonderful, the teacher teaches very well, and the teaching assistants are nice, too. However, the procedure of handing assigns and exercises are the way too complicated. This encouraged me to work on this project.  
+
+### without NCCU-GAP
+
+There are some limits if you want to hand in your homeworks, such as:
+
+ - the name of the project folder.
+ - the name of the main program.
 
 ## Change log
 

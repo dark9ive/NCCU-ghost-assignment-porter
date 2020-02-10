@@ -18,13 +18,17 @@ The main idea is to ease the procedure and limits of handing the homework on GHO
  - Grade-checking link is now pointed to the specific assignment you upload.(Thanks for the suggestion from YJack!)
  - Re-upload the older versions.
 
-### v1.2(uploaded on Sept. 27 2019)
+### v1.2(uploaded on Sep. 27 2019)
 
  - Add adaptation to Exercises.
  - Your file will no longer accidentally deleted by the script.(Known bug #1 fixed)
- - Grade-checking link added.
- - You can now put the script ANYWHERE and run it while needed instead of make a copy to your assignment directory.
+ - Grade lookup [link](http://cherry.cs.nccu.edu.tw/~cp1/1081/) added.
+ - You can now put the script __ANYWHERE__ and run it while needed instead of make a copy to your assignment directory.
 
+### v1.1(uploaded on Nov. 17 2019)
+
+ - First version.  
+  
 ## Get started
 
 Step 1. Clone the project to your own directory:  

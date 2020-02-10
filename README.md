@@ -25,7 +25,7 @@ The main idea is to ease the procedure and limits of handing the homework on GHO
  - Grade-checking link added.
  - You can now put the script ANYWHERE and run it while needed instead of make a copy to your assignment directory.
 
-## How to Download
+## Get started
 
 Step 1. Clone the project to your own directory:  
 

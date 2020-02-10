@@ -83,7 +83,7 @@ Step 4. Enjoy your convenient on handing your homework!
 
 For those who are **EXTREMELY LAZY**:  
 ```
-git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && chmod 755 ~/submit.sh && echo "Done."
+git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git 2>/dev/null && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && chmod 755 ~/submit.sh && echo "Done." || echo "Error! Please follow the complete instructions to find the error!"
 ```
 
 ## usage

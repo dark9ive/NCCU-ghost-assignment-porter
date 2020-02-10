@@ -3,6 +3,10 @@
 NCCU-GAP is a free-to-use shell script for basically NCCU CS students, or anyone whom has a account on NCCU-ghost(ghost.cs.nccu.edu.tw).  
 The main idea is to ease the procedure and limits of handing the homework on GHOST.
 
+## intro
+
+As a first-grader in NCCU CS, I picked _Computer Programming 1_
+
 ## Change log
 
 ### v1.5(uploaded on Nov. 21 2019)

@@ -3,7 +3,7 @@
 NCCU-GAP is a free-to-use shell script for basically NCCU CS students, or anyone whom has a account on NCCU-ghost(ghost.cs.nccu.edu.tw).  
 The main idea is to ease the procedure and limits of handing homeworks on GHOST.
 
-## intro
+## Intro
 
 As a first-grader in NCCU CS, I picked ___Computer Programming 1 (CP1)___ in the first semester as well.  
 The class is wonderful, the teacher teaches very well, and the teaching assistants are nice, too.  
@@ -16,11 +16,20 @@ There are some limits if you want to hand in your homeworks, such as:
  - the name of the project folder must match the specific format.
  - the name of the main program must match the specific format.
 
-...and some defects
+...and some defects:
 
  - the command to hand in the homework is too long.(more than 30 symbols!)
 
 despite that TAs will give us the hand-in command every time, copy-paste can't solve the first two problems, which is very annoying.  
+
+### Advantages
+
+With NCCU-GAP, you can hand in your homework with nearly no limits and a way shorter command.  
+You just have to put this script at somewhere easy to access, and execute it in your assignment directory.  
+NCCU-GAP will then ask for two required informations, and help you finish your work with ease.  
+  
+further more, NCCU-GAP will make a copy of your homework in your home directory.  
+This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks, which even TAs can't done for you.
 
 ## Change log
 

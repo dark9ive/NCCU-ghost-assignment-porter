@@ -15,8 +15,8 @@ There are some limits if you want to hand in your homeworks, such as:
 
  - the name of the project folder must match the specific format.
  - the name of the main program must match the specific format.
-
-...and some defects:
+  
+...and some defects:  
 
  - the command to hand in the homework is too long.(more than 30 symbols!)
 
@@ -24,12 +24,12 @@ despite that TAs will give us the hand-in command every time, copy-paste can't s
 
 ### Advantages
 
-With NCCU-GAP, you can hand in your homework with nearly no limits and a way shorter command.  
+With NCCU-GAP, you can hand in your homework with nearly no limits in a way shorter command.  
 You just have to put this script at somewhere easy to access, and execute it in your assignment directory.  
 NCCU-GAP will then ask for two required informations, and help you finish your work with ease.  
   
 further more, NCCU-GAP will make a copy of your homework in your home directory.  
-This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. Even TAs can't done that for you!
+This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. Even TAs can't done that for you!  
 
 ## Change log
 

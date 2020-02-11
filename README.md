@@ -67,7 +67,7 @@ With NCCU-GAP, you can hand in your homework with __nearly no limits__ in a __wa
 You just have to put this script at somewhere easy to access, and execute it in your assignment directory.  
 NCCU-GAP will then ask for two required informations, and help you finish your submission with __ease__.  
   
-further more, NCCU-GAP will __make a copy of your homework__ in your home directory.  
+Further more, NCCU-GAP will __make a copy of your homework__ in your home directory.  
 This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. __Even TAs can't done that for you!__  
 
 ## Change log

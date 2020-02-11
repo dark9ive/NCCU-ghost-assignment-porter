@@ -70,7 +70,7 @@ NCCU-GAP will then ask for two required informations, and help you finish your s
 Further more, NCCU-GAP will __make a copy of your homework__ in your home directory.  
 This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. __Even TAs can't done that for you!__  
 
-## Change log
+## Changelog
 
 ### v1.5(uploaded on Nov. 21 2019)
 

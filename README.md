@@ -32,7 +32,7 @@ For those who are **EXTREMELY LAZY**:
 clear && git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git 2>/dev/null && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && chmod 755 ~/submit.sh && echo "Done." || echo "Error. Please follow the complete instructions to find the error."
 ```
 
-## usage
+## Usage
 
 Make sure you are in the same directory with your main program, then type:
 

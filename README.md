@@ -24,12 +24,12 @@ despite that TAs will give us the hand-in command every time, copy-paste can't s
 
 ### Advantages
 
-With NCCU-GAP, you can hand in your homework with nearly no limits in a way shorter command.  
+With NCCU-GAP, you can hand in your homework with __nearly no limits__ in a __way shorter command__.  
 You just have to put this script at somewhere easy to access, and execute it in your assignment directory.  
-NCCU-GAP will then ask for two required informations, and help you finish your submission with ease.  
+NCCU-GAP will then ask for two required informations, and help you finish your submission with __ease__.  
   
-further more, NCCU-GAP will make a copy of your homework in your home directory.  
-This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. Even TAs can't done that for you!  
+further more, NCCU-GAP will __make a copy of your homework__ in your home directory.  
+This feature can prevent you from the tragedy of accidentally delete your unfinished homeworks. __Even TAs can't done that for you!__  
 
 ## Change log
 

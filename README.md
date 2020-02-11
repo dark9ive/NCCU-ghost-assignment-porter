@@ -3,6 +3,45 @@
 NCCU-GAP is a free-to-use shell script for basically NCCU CS students, or anyone whom has a account on NCCU-ghost(ghost.cs.nccu.edu.tw).  
 The main idea is to ease the procedure and limits of handing homeworks on GHOST.
 
+## Get started
+
+Step 1. Clone the project to your own directory:  
+
+```
+git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git
+```
+
+Step 2. Copy the script to your home directory:  
+
+```
+cp ./NCCU-ghost-assignment-porter/submit.sh ~/
+```
+
+Step 3. Change permissions
+
+```
+chmod 755 ~/submit.sh
+```
+
+Step 4. Enjoy your convenient on handing your homework!  
+
+### one step command
+
+For those who are **EXTREMELY LAZY**:  
+```
+clear && git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git 2>/dev/null && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && chmod 755 ~/submit.sh && echo "Done." || echo "Error. Please follow the complete instructions to find the error."
+```
+
+## usage
+
+Make sure you are in the same directory with your main program, then type:
+
+```
+~/submit.sh
+```
+
+Then you may follow the instructions by the script to finish your submission.
+
 ## Intro
 
 As a first-grader in NCCU CS, I picked ___Computer Programming 1 (CP1)___ in the first semester as well.  
@@ -57,45 +96,6 @@ This feature can prevent you from the tragedy of accidentally delete your unfini
 
  - First version.  
   
-## Get started
-
-Step 1. Clone the project to your own directory:  
-
-```
-git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git
-```
-
-Step 2. Copy the script to your home directory:  
-
-```
-cp ./NCCU-ghost-assignment-porter/submit.sh ~/
-```
-
-Step 3. Change permissions
-
-```
-chmod 755 ~/submit.sh
-```
-
-Step 4. Enjoy your convenient on handing your homework!  
-
-### one step command
-
-For those who are **EXTREMELY LAZY**:  
-```
-clear && git clone https://github.com/dark9ive/NCCU-ghost-assignment-porter.git 2>/dev/null && cp ./NCCU-ghost-assignment-porter/submit.sh ~/ && chmod 755 ~/submit.sh && echo "Done." || echo "Error. Please follow the complete instructions to find the error."
-```
-
-## usage
-
-Make sure you are in the same directory with your main program, then type:
-
-```
-~/submit.sh
-```
-
-Then you may follow the instructions by the script to finish your submission.
-
 ## Creative Commons(CC)
 
 <img id="CC-icon" src="https://github.com/dark9ive/NCCU-ghost-assignment-porter/blob/master/.icons/by-nc-sa.png" width="101" height="35">

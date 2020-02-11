@@ -80,7 +80,7 @@ This feature can prevent you from the tragedy of accidentally delete your unfini
 
  - Fix the command-not-found bug.(Thanks to [C.T.Hua](https://github.com/CTHua)!)
 
-### v1.3(uploaded om Oct. 27 2019)
+### v1.3(uploaded on Oct. 27 2019)
 
  - Grade-checking link is now pointed to the specific assignment you upload.(Thanks for the suggestion from YJack!)
  - Re-upload the older versions.

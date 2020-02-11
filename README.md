@@ -89,7 +89,7 @@ This feature can prevent you from the tragedy of accidentally delete your unfini
 
  - Add adaptation to Exercises.
  - Your file will no longer accidentally deleted by the script.(Known bug #1 fixed)
- - Grade lookup [link](http://cherry.cs.nccu.edu.tw/~cp1/1081/) added.
+ - [Grade lookup link added.](http://cherry.cs.nccu.edu.tw/~cp1/1081/)
  - You can now put the script __ANYWHERE__ and run it while needed instead of make a copy to your assignment directory.
 
 ### v1.1(uploaded on Nov. 17 2019)

@@ -94,7 +94,7 @@ This feature can prevent you from the tragedy of accidentally delete your unfini
 
 ### v1.1(uploaded on Nov. 17 2019)
 
- - First version.  
+ - First version.
   
 ## Creative Commons(CC)
 
